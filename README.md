@@ -15,7 +15,7 @@ Passionate about fortifying security through threat detection, incident response
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM-Based Log Analysis & Alert Tuning          | SOC Automation Lab|
+| SIEM-Based Log Analysis & Alert Tuning          | <a href="https://github.com/rLakshmeesh/SIEM-Based-Log-Analysis-Alert-Tuning">Github</a>|
 | Vulnerability Assessment and Reporting |SOC Automation Lab |
 | Network Traffic Analysis for Threat Detection         | SOC Automation Lab|
 | Cherify      | <a href="https://github.com/rLakshmeesh/Cherif">Github</a>|
