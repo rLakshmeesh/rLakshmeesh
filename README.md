@@ -64,7 +64,8 @@ Passionate about fortifying security through threat detection, incident response
 -->
 
 ## Projects
-- SIEM-Based Log Analysis & Alert Tuning
+
+- <a href="https://github.com/rLakshmeesh/SIEM-Based-Log-Analysis-Alert-Tuning">SIEM-Based Log Analysis & Alert Tuning</a>
 - Vulnerability Assessment and Reporting
 - Network Traffic Analysis for Threat Detection
 - Cherify (Dating App)
