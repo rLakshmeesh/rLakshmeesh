@@ -3,13 +3,48 @@
 
 
 
-I'm a passionate Cybersecurity Enthusiast with a strong interest in network security, threat detection, and penetration testing. I have experience working with tools like Wireshark, tcpdump, Splunk, Metasploit, Nmap, and Nessus. I'm currently building projects focused on SIEM log analysis, vulnerability assessment, and cloud security monitoring.
+I'm a dedicated **Cybersecurity Enthusiast** with a strong focus on **web application security, threat detection, incident response** and **penetration testing**. My recent studies, including the **Web Application Hacker’s Handbook (1st Edition)** and hands-on practice with labs like **PortSwigger, DVWA, WebGoat and bWAPP** have helped me build a solid foundation in offensive and defensive security.
 
-🔒 Exploring the dynamic field of cybersecurity keeps me motivated, and I'm always eager to learn and improve my skills. Feel free to check out my projects and connect with me!
+I actively work with industry tools such as **Burp Suite, Wireshark, Splunk, Nmap, Metasploit, Nessus**, and **Zeek** and I'm currently building projects in **SIEM log analysis**, **network traffic monitoring**, **vulnerability assessment** and **cloud security hardening**.
+
+While my core focus is cybersecurity, I also have foundational experience in **data analysis** (Python, SQL, Excel) and **Android app development** (Kotlin, Java, Firebase), which complement my technical versatility.
+
+I'm continuously expanding my skill set to stay ahead in the evolving cybersecurity landscape.
+
 
 ## Objective
-🎯 Objective:
-Passionate about fortifying security through threat detection, incident response, and vulnerability management. Currently honing my skills in network security and SIEM tools to build strong defense strategies. While my focus is on defending against cyber threats, I’m also eager to explore the offensive side in the future to gain a deeper understanding of the full security landscape.
+🎯To build a comprehensive skill set in cybersecurity by working across both offensive and defensive domains. I aim to understand and simulate real-world attacks, strengthen security posture through proactive defense, and contribute to building secure digital environments. My goal is to grow into a versatile cybersecurity professional capable of adapting to evolving threats and securing systems end to end.
+
+## 🧳 Experience
+
+**Cybersecurity Self-Study & Projects**  
+*Independent | 2024 – Present*  
+- Completed **Web Application Hacker’s Handbook (1st Edition)**  
+- Practiced hands-on labs using **DVWA, WebGoat, bWAPP**, and **Burp Suite**  
+- Built projects in **SIEM log analysis**, **network traffic monitoring**, and **vulnerability reporting**  
+- Tools used: **Splunk, Wireshark, Nessus, Nmap, Metasploit, Zeek**, and more
+
+**Data Analysis Intern**  
+*Internship Project | 2024*  
+- Analyzed structured datasets using **Python, SQL, and Excel**  
+- Performed **data cleaning**, exploratory data analysis, and visualization  
+- Automated reporting and contributed insights to internal dashboards
+
+**Android App Developer**  
+*Personal Projects | 2023–2025*  
+- Developed **Cherify**, a dating app using **Kotlin, Firebase**, and **Jetpack Compose**  
+- Built **FlexFit**, a workout tracking app with custom plan features  
+- Experienced in **Java, Kotlin, Firebase, Android Studio**, and UI/UX design
+
+---
+
+## 🏅 Certifications
+
+- **Google Cybersecurity Professional Certificate** – Coursera   <a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-ID](https://coursera.org/share/96e0ea339dc6635f133904fb08b4e52c">View Credential</a>  
+- **Web Application Hacker’s Handbook (1st Edition)** – Self-Study
+- **Data Analysis Certificate** – Roman Tech  
+  *(Covered Python, SQL, Pandas, Matplotlib, data wrangling, and visualization)*
+
 ## Skills
 
 
@@ -51,17 +86,6 @@ Passionate about fortifying security through threat detection, incident response
 ### 💻 Programming Languages
 <div> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> </div> 
 
-<!-- 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
--->
 
 ## Projects
 
