@@ -60,19 +60,16 @@ I'm continuously expanding my skill set to stay ahead in the evolving cybersecur
 ## Tools
 
 ### 📑 Log Analysis & SIEM
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Wazuh-4E5667?&style=for-the-badge&logo=Wazuh&logoColor=white" /> </div> 
+<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />  </div> 
 
 ### 🛡️ Penetration Testing & Exploitation
-<div> <img src="https://img.shields.io/badge/-Metasploit-29A329?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-0099CC?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nikto-FF5733?&style=for-the-badge&logo=Nikto&logoColor=white" /> <img src="https://img.shields.io/badge/-BloodHound-B71C1C?&style=for-the-badge&logo=BloodHound&logoColor=white" /> <img src="https://img.shields.io/badge/-Mimikatz-795548?&style=for-the-badge&logo=Mimikatz&logoColor=white" /> </div> 
+<div> <img src="https://img.shields.io/badge/-Metasploit-29A329?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-0099CC?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nikto-FF5733?&style=for-the-badge&logo=Nikto&logoColor=white" />  </div> 
 
 ### 🌐 Network Analysis & Traffic Monitoring
 <div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Netcat-555555?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-Tshark-02569B?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div> 
 
 ### 🔍 Vulnerability Scanning & Threat Detection
 <div> <img src="https://img.shields.io/badge/-Nessus-00A4CC?&style=for-the-badge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-FF4500?&style=for-the-badge&logo=Windows&logoColor=white" /> </div> 
-
-### ☁️ Cloud Security
-<div> <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" /> </div> 
 
 ### 🖥️ Operating Systems & Virtualization
 <div> <img src="https://img.shields.io/badge/-Linux-FFCC00?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploitable-29A329?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> </div> 
