@@ -1,94 +1,61 @@
-# 👋 Hi, I'm Lakshmeesh R!
-<a href="https://linkedin.com/in/lakshmeesh-r-26b7b0228/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Lakshmeesh R 👋
 
+**Cybersecurity Engineer** focused on detection engineering, SOC operations, and SIEM pipelines — with complementary offensive security skills (OWASP Top 10, vulnerability assessment) to strengthen defensive architecture.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshmeesh-r-26b7b0228/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmeeshr0@gmail.com)
 
-I'm a dedicated **Cybersecurity Enthusiast** with a strong focus on **web application security, threat detection, incident response** and **penetration testing**. My recent studies, including the **Web Application Hacker’s Handbook (1st Edition)** and hands-on practice with labs like **PortSwigger, DVWA, WebGoat and bWAPP** have helped me build a solid foundation in offensive and defensive security.
+---
 
-I actively work with industry tools such as **Burp Suite, Wireshark, Splunk, Nmap, Metasploit, Nessus**, and **Zeek** and I'm currently building projects in **SIEM log analysis**, **network traffic monitoring**, **vulnerability assessment** and **cloud security hardening**.
+## 🎯 Objective
 
-While my core focus is cybersecurity, I also have foundational experience in **data analysis** (Python, SQL, Excel) and **Android app development** (Kotlin, Java, Firebase), which complement my technical versatility.
+Building intelligence-driven detection systems by working across both offensive and defensive domains — designing correlation rules mapped to MITRE ATT&CK, tuning SIEM pipelines to cut false positives, and simulating real-world attacks to validate detection coverage. Currently pursuing CEH (v13) and targeting SOC Analyst / Cybersecurity Analyst / Detection Engineering roles.
 
-I'm continuously expanding my skill set to stay ahead in the evolving cybersecurity landscape.
+---
 
+## 🛠️ Featured Projects
 
-## Objective
-🎯To build a comprehensive skill set in cybersecurity by working across both offensive and defensive domains. I aim to understand and simulate real-world attacks, strengthen security posture through proactive defense, and contribute to building secure digital environments. My goal is to grow into a versatile cybersecurity professional capable of adapting to evolving threats and securing systems end to end.
+### 🔹 [Cloud Security Monitoring & API Integration Framework](https://github.com/rLakshmeesh/Cloud-Security-Monitoring-API-Integration-Framework)
+Python-based framework correlating security events from AWS CloudTrail and GuardDuty. Built REST API integrations to centralize alerts from AWS and Wazuh into one monitoring workflow, with automated alert enrichment and IAM checks to speed up triage and surface misconfigurations.
+`Python` `AWS` `Wazuh` `REST APIs`
 
-## 🧳 Experience
+### 🔹 [SIEM-Based Log Analysis & Alert Tuning](https://github.com/rLakshmeesh/SIEM-Based-Log-Analysis-Alert-Tuning)
+Designed and tuned SIEM correlation rules to reduce false-positive rates and improve detection fidelity, with log ingestion workflows mapped against MITRE ATT&CK techniques.
+`Wazuh` `ELK Stack` `MITRE ATT&CK`
 
-**Cybersecurity Self-Study & Projects**  
-*Independent | 2024 – Present*  
-- Completed **Web Application Hacker’s Handbook (1st Edition)**  
-- Practiced hands-on labs using **DVWA, WebGoat, bWAPP**, and **Burp Suite**  
-- Built projects in **SIEM log analysis**, **network traffic monitoring**, and **vulnerability reporting**  
-- Tools used: **Splunk, Wireshark, Nessus, Nmap, Metasploit, Zeek**, and more
+### 🔹 [Log Analysis with Wireshark — SOC Incident Investigation Portfolio](https://github.com/rLakshmeesh/Log-analysis-with-wireshark)
+Independently investigated 3 simulated intrusions from packet captures and IDS alerts — a NetSupport RAT infection via fake browser update, a PowerShell downloader with C2 beaconing, and a NetSupport Manager RAT C2 case. Correlated HTTP, DNS/TLS SNI, LLMNR, Kerberos, and SAMR traffic to attribute each compromise to a host, MAC/hostname, and AD identity. Findings mapped to MITRE ATT&CK (T1189, T1204.002, T1105, T1059.001, T1071.001, T1036, T1219) with full IOC reports, timelines, and remediation recommendations.
+`Wireshark` `Suricata` `MITRE ATT&CK`
 
-**Data Analysis Intern**  
-*Internship Project | 2024*  
-- Analyzed structured datasets using **Python, SQL, and Excel**  
-- Performed **data cleaning**, exploratory data analysis, and visualization  
-- Automated reporting and contributed insights to internal dashboards
+### 🔹 [Authentication Vulnerabilities Labs](https://github.com/rLakshmeesh/Authentication_Vulnerabilities_Labs)
+Step-by-step documentation of authentication vulnerability labs — exploits, tools, and mitigations mapped to OWASP Top 10.
+`Burp Suite` `OWASP Top 10`
 
-**Android App Developer**  
-*Personal Projects | 2023–2025*  
-- Developed **Cherify**, a dating app using **Kotlin, Firebase**, and **Jetpack Compose**  
-- Built **FlexFit**, a workout tracking app with custom plan features  
-- Experienced in **Java, Kotlin, Firebase, Android Studio**, and UI/UX design
+### 🔹 [Security Hardening](https://github.com/rLakshmeesh/Security-Hardening)
+Multi-OS hardening project for Ubuntu and Windows, implementing CIS Benchmark and ISO 27001 controls with practical checklists, framework mapping, and verification steps.
+`CIS Benchmarks` `ISO 27001` `NIST`
+
+---
+
+## 🧰 Skills & Tools
+
+**Detection & Monitoring:** Wazuh SIEM, ELK Stack, Suricata, Wireshark, Zeek
+**Offensive / VAPT:** Burp Suite, Metasploit, Nmap, Nessus, CVSS Scoring
+**Frameworks:** MITRE ATT&CK, OWASP Top 10, STRIDE, ISO 27001, NIST, CIS
+**Scripting & Automation:** Python (automation, API integration), Bash
+**Engineering:** Detection Engineering, Threat Modeling, Risk Register Development, MTTD Optimization
+**Cloud:** AWS (CloudTrail, GuardDuty, IAM security review)
 
 ---
 
 ## 🏅 Certifications
 
-- **Google Cybersecurity Professional Certificate** – Coursera   <a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-ID](https://coursera.org/share/96e0ea339dc6635f133904fb08b4e52c">View Credential</a>  
-- **Web Application Hacker’s Handbook (1st Edition)** – Self-Study
-- **Data Analysis Certificate** – Roman Tech  
-  *(Covered Python, SQL, Pandas, Matplotlib, data wrangling, and visualization)*
+- **Google Cybersecurity Professional Certificate** — Coursera (2025) · `GAVUVPHE0QPD`
+- **Certified Ethical Hacker (CEH v13)** — In Progress
 
-## Skills
+---
 
+## 📫 Reach Me
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM-Based Log Analysis & Alert Tuning          | <a href="https://github.com/rLakshmeesh/SIEM-Based-Log-Analysis-Alert-Tuning">Github</a>|
-| Vulnerability Assessment and Reporting |SOC Automation Lab |
-| Network Traffic Analysis for Threat Detection         | SOC Automation Lab|
-| Cherify      | <a href="https://github.com/rLakshmeesh/Cherif">Github</a>|
-| Workout App                  | <a href="https://github.com/rLakshmeesh/FlexFit">Github</a>|
-| AI-Enhanced Data Accuracy in CRM Systems | <a href="https://github.com/rLakshmeesh/AI-enhanced-data-accuracy-in-CRM">Github</a>|
-
-## Tools
-
-### 📑 Log Analysis & SIEM
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />  </div> 
-
-### 🛡️ Penetration Testing & Exploitation
-<div> <img src="https://img.shields.io/badge/-Metasploit-29A329?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-0099CC?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nikto-FF5733?&style=for-the-badge&logo=Nikto&logoColor=white" />  </div> 
-
-### 🌐 Network Analysis & Traffic Monitoring
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-4B275F?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Netcat-555555?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-Tshark-02569B?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div> 
-
-### 🔍 Vulnerability Scanning & Threat Detection
-<div> <img src="https://img.shields.io/badge/-Nessus-00A4CC?&style=for-the-badge&logo=Nessus&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-FF4500?&style=for-the-badge&logo=Windows&logoColor=white" /> </div> 
-
-### 🖥️ Operating Systems & Virtualization
-<div> <img src="https://img.shields.io/badge/-Linux-FFCC00?&style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploitable-29A329?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> </div> 
-
-### 🧠 Scripting & Automation
-<div> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNUBash&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div> 
-
-### 📱 Android Development
-<div> <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?&style=for-the-badge&logo=Android-Studio&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?&style=for-the-badge&logo=Android&logoColor=white" /> <img src="https://img.shields.io/badge/-XML-EB8C00?&style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" /> </div> 
-
-### 💻 Programming Languages
-<div> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> </div> 
-
-
-## Projects
-
-- <a href="https://github.com/rLakshmeesh/SIEM-Based-Log-Analysis-Alert-Tuning">SIEM-Based Log Analysis & Alert Tuning</a>
-- Vulnerability Assessment and Reporting
-- Network Traffic Analysis for Threat Detection
-- Cherify (Dating App)
-- Workout App
-- AI-Enhanced Data Accuracy in CRM Systems
+- Email: lakshmeeshr0@gmail.com
+- LinkedIn: [linkedin.com/in/lakshmeesh](https://linkedin.com/in/lakshmeesh-r-26b7b0228/)
